@@ -1,4 +1,4 @@
-FaceSecure - Controle de Acesso por Reconhecimento Facial
+# FaceSecure - Controle de Acesso por Reconhecimento Facial
 Uma aplicação simples de reconhecimento facial para controle de acesso, desenvolvida utilizando Java e OpenCV. O sistema permite cadastrar rostos e posteriormente verificar se um novo rosto capturado corresponde a um dos cadastrados.
 
 -> Funcionalidades
